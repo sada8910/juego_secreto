@@ -4,10 +4,22 @@
 </p>
  Descripción del proyecto
 
- Se ingresan varios nombres de amigos mediante el boton Añadir, posteriormente se activa el boton de sortear amigo e indicara un nombre de la lista que se ha creado.
+ Se ingresan varios nombres de amigos mediante el boton Añadir, si el campo esta vacio mostrara mensaje de error:
 
-  Si la lista esta vacia no se podra sortear el amigo.
-  
+  ![image](https://github.com/user-attachments/assets/1204003c-000a-4edf-80c7-8e01a51e81cc)
+
+  posteriormente se activa el boton de sortear amigo e indicara un nombre de la lista que se ha creado.
+
+  Si la lista esta vacia no se podra sortear el amigo y mostrara mensaje de alerta
+
+  ![image](https://github.com/user-attachments/assets/7e104929-fac5-4380-a07e-6bc1977955c1)
+
+
+  A partir de un nombre agregado ya podra realizar el sorteo
+
+  ![image](https://github.com/user-attachments/assets/3e4b93f6-2bc1-4e5d-b56a-fe737e3128fc)
+
+
 <h4 align="center">
 :construction: Proyecto en construcción :construction:
 </h4>
